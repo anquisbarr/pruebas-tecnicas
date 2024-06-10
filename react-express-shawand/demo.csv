@@ -1,0 +1,11 @@
+id, Nombre, Edad, Departamento, Email
+1, John Doe, 30, IT, john.doe@gmail.com
+2, Jane Doe, 25, HR, jane.doe@gmail.com
+3, John Smith, 35, IT, john.smith@gmail.com
+4, Jane Smith, 40, PM, jane.smith@gmail.com
+5, John Johnson, 45, IT, john.johnson@gmail.com
+6, Jane Johnson, 50, PM, jane.johnson@gmail.com
+7, John Brown, 55, IT, john.brown@gmail.com
+8, Jane Brown, 60, HR, jane.brown@gmail.com
+9, John Smith, 35, CEO, john.smith@gmail.com
+10, Jane Smith, 40, CTO, jane.smith@gmail.com

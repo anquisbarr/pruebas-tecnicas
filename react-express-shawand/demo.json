@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "Nombre": "John Doe",
+    "Edad": 30,
+    "Departamento": "IT",
+    "Email": "john.doe@gmail.com"
+  },
+  {
+    "id": 2,
+    "Nombre": "Jane Doe",
+    "Edad": 25,
+    "Departamento": "HR",
+    "Email": "jane.doe@gmail.com"
+  },
+  {
+    "id": 3,
+    "Nombre": "John Smith",
+    "Edad": 35,
+    "Departamento": "IT",
+    "Email": "john.smith@gmail.com"
+  },
+  {
+    "id": 4,
+    "Nombre": "Jane Smith",
+    "Edad": 40,
+    "Departamento": "HR",
+    "Email": "jane.smith@gmail.com"
+  },
+  {
+    "id": 5,
+    "Nombre": "John Johnson",
+    "Edad": 45,
+    "Departamento": "IT",
+    "Email": "john.johnson@gmail.com"
+  },
+  {
+    "id": 6,
+    "Nombre": "Jane Johnson",
+    "Edad": 50,
+    "Departamento": "HR",
+    "Email": "jane.johnson@gmail.com"
+  },
+  {
+    "id": 7,
+    "Nombre": "John Brown",
+    "Edad": 55,
+    "Departamento": "IT",
+    "Email": "john.brown@gmail.com"
+  },
+  {
+    "id": 8,
+    "Nombre": "Jane Brown",
+    "Edad": 60,
+    "Departamento": "HR",
+    "Email": "jane.brown@gmail.com"
+  },
+  {
+    "id": 9,
+    "Nombre": "John Smith",
+    "Edad": 35,
+    "Departamento": "IT",
+    "Email": "john.smith@gmail.com"
+  },
+  {
+    "id": 10,
+    "Nombre": "Jane Smith",
+    "Edad": 40,
+    "Departamento": "HR",
+    "Email": "jane.smith@gmail.com"
+  }
+]
