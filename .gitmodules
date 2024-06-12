@@ -1,3 +1,6 @@
 [submodule "stick-to-the-list-prueba-tecnica"]
 	path = stick-to-the-list-fullstack
 	url = https://github.com/anquisbarr/stick-to-the-list-prueba-tecnica.git
+[submodule "fractal-prueba-tecnica"]
+	path = fractal-prueba-tecnica
+	url = git@github.com:anquisbarr/fractal-prueba-tecnica.git
